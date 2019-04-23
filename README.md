@@ -1,5 +1,5 @@
-# Analysis on a survey on mobile app usage 
-##### unsupervised learning
+# Analysis on A Survey of Mobile App Usage 
+##### machine learning, unsupervised learning
 
 After data analysis, we found out an outstanding need in mobile app: listening to music,
 recording/editing videos. The component is identified as having a strong need for music
